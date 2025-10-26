@@ -38,7 +38,7 @@ It is designed to help participants understand how backend logic, controllers, a
 ---
 
 ### 👨‍💻 About
-This project is developed by **[Umut Albayrak](https://www.linkedin.com/in/umutalbayrak24)**  
+This project is developed by **[Umut Albayrak](https://www.linkedin.com/in/umut-albayrak24)**  
 as part of the *Mini Backend Event (October 2025)*.
 
 > “Learn backend development by building small but complete real-world projects.”
@@ -51,4 +51,4 @@ as part of the *Mini Backend Event (October 2025)*.
 
 ---
 
-🌐 *Event Series:* [Mini Backend Event Repository](https://github.com/Umutalb/MiniBackendEvent)
+🌐 *Event Series:* [Mini Backend Event Repository](https://umutalb.github.io/Backend-Event-Site/)
