@@ -8,7 +8,7 @@ It is designed to help participants understand how backend logic, controllers, a
 ---
 
 ### 🧱 Features
-- Built with *.NET 8* and *Visual Studio 2022*
+- Built with *.NET 8* 
 - Uses *in-memory storage* (no database required)
 - Implements full *CRUD operations*
 - Includes a completion toggle endpoint (/complete)
