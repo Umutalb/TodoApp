@@ -51,4 +51,4 @@ as part of the *Mini Backend Event (October 2025)*.
 
 ---
 
-🌐 *Event Series:* [Mini Backend Event Repository](https://umutalb.github.io/Backend-Event-Site/)
+🌐 *Event Series:* [Mini Backend Event Repository](https://github.com/Umutalb/MiniBackendEvent)
