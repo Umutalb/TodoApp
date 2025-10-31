@@ -31,7 +31,7 @@ namespace TodoApp.Controllers
         {
             newItem.TodoItemId = _todoItems.Count + 1;
             _todoItems.Add(newItem);
-            return Ok(newItem);
+            return CreatedAtAction(nameof(GetById), new { id = newItem.TodoItemId}, newItem);
         }
 
         [HttpPut("{id}")]
